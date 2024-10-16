@@ -1,7 +1,7 @@
 # Text-Editor
 Console Based Notepad Using C++ with following functions:
-Insertion
-Deletion
-Undo 
-Redo
-File Handling (Save and Read file)
+1) Insertion
+2) Deletion
+3) Undo 
+4) Redo
+5) File Handling (Save and Read file)
